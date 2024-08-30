@@ -17,5 +17,10 @@ Here are a few projects I have completed:
 
 Checkout my repositories to learn more about these projects!
 
+## 📫Contact Me
+<div align="center">
 
+[![Linkedin Badge](https://img.shields.io/badge/-Armin%20Sound-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armin-sound/)](https://www.linkedin.com/in/armin-sound/)
+</div>
 
+</div>
